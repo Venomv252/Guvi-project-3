@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "mysql2": "^3.14.5"
+  },
+  "name": "database",
+  "version": "1.0.0",
+  "main": "setup-database.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
